@@ -89,33 +89,10 @@ The application features:
 - **Download functionality** for encoded images
 - **Metadata display** with encoding information
 
-## 🏅 Competitive Advantages
 
-1. **Multiple Algorithms**: Not just LSB - includes DCT and PVD
-2. **Real Encryption**: Uses Fernet, not simple XOR
-3. **Forensic Tools**: Can analyze and detect steganography
-4. **Professional UI**: Streamlit with custom CSS styling
-5. **Compression Support**: Handles large messages efficiently
-6. **Metadata Tracking**: Embeds encoding information
-7. **Quality Control**: Adjustable output quality settings
-8. **Cross-format Support**: Works with PNG, JPG, BMP
 
-## 🎯 Perfect for Hackathon Presentation
 
-- **Live Demo Ready**: Upload, encode, decode in real-time
-- **Visual Impact**: LSB visualization shows hidden data
-- **Technical Depth**: Multiple algorithms demonstrate expertise
-- **Practical Application**: Real-world cybersecurity relevance
-- **User-Friendly**: Judges can try it themselves easily
-
-## 🔮 Future Enhancements
-
-- Audio steganography support
-- Blockchain-based message verification
-- AI-powered steganalysis detection
-- Mobile app version
-- Batch processing capabilities
 
 ---
 
-**Built for Excellence** | **Ready to Win** | **Steganography Redefined**
+**Built for Excellence**  | **Steganography Redefined**

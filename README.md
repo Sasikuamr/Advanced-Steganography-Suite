@@ -1,6 +1,6 @@
 # 🔐 Advanced Steganography Suite
 
-**Winner-Ready Hackathon Project** - Military-grade secret message hiding in images
+Military-grade secret message hiding in images
 
 ## 🚀 Unique Features That Set Us Apart
 

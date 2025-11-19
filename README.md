@@ -27,14 +27,6 @@
 - **Capacity Calculator** - Maximum message size estimation
 - **Randomness Scoring** - Statistical analysis of image data
 
-## 🏆 What Makes This Hackathon-Winning
-
-1. **Technical Sophistication**: Multiple algorithms, not just basic LSB
-2. **Security Focus**: Real encryption, not just obfuscation
-3. **User Experience**: Professional UI with analysis tools
-4. **Practical Application**: Real-world forensic capabilities
-5. **Scalability**: Handles large messages with compression
-6. **Innovation**: Adaptive encoding based on image characteristics
 
 ## 🚀 Quick Start
 
@@ -69,14 +61,7 @@ python demo.py
 2. View LSB planes and entropy statistics
 3. Detect potential hidden data
 
-## 🎯 Hackathon Judging Criteria Coverage
 
-- **Innovation**: Multiple encoding algorithms + forensic analysis
-- **Technical Complexity**: Encryption, compression, multiple methods
-- **User Experience**: Professional Streamlit interface
-- **Practical Value**: Real-world steganography applications
-- **Code Quality**: Clean, documented, modular design
-- **Demonstration**: Built-in demo generator and analysis tools
 
 ## 🔧 Technical Architecture
 
